@@ -1,0 +1,81 @@
+﻿<Window x:Class="Wallet.View.ExchangeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wallet.View" xmlns:viewmodels="clr-namespace:Wallet.ViewModels"
+        mc:Ignorable="d"
+        Title="ExchangeWindow" Height="450" Width="800" Name="ThisWindow">
+
+    <Window.DataContext>
+        <viewmodels:ExchangeVM/>
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <TextBlock Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Grid.Row="0" Grid.Column="1" Text="Номер Кошелька:"/>
+            <TextBlock Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Grid.Row="0" Grid.Column="1" Text="{Binding AuthorizationVM.AuthorizedUser.WalletNumber}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" >
+            <Button Command="{Binding Exchan.OpenWindow1}" CommandParameter="{Binding ElementName=ThisWindow}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="Кошелёк" ></Button>
+            <Button Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="Обмен" IsEnabled="False"></Button>
+            <Button Command="{Binding Exchan.OpenWindow2}" CommandParameter="{Binding ElementName=ThisWindow}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="История"></Button>
+            <Button Command="{Binding Exchan.OpenWindow3}" CommandParameter="{Binding ElementName=ThisWindow}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="Пополнить"></Button>
+        </StackPanel>
+        <Border Grid.Column="1" Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                        <ComboBox Height="25" ItemsSource="{Binding Exchan.CurrencyList}"
+                                  SelectedItem="{Binding Exchan.GetFromCurrency}">
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Name}" FontSize="14"/>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                    <TextBox Grid.Row="1" Height="30"
+                             Text="{Binding Exchan.GetCurrency}"/>
+                </Grid>
+
+                <Grid Grid.Column="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <ComboBox Height="25" ItemsSource="{Binding Exchan.CurrencyList}"
+                              SelectedItem="{Binding Exchan.SetToCurrency}">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Name}" FontSize="14"/>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                </Grid>
+                <Button Grid.Column="1"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Content="-> Перевести ->"
+                        FontSize="18"
+                        Command="{Binding Exchan.ConvertCurrencies}"/>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

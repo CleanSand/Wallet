@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ae4e03c-d99c-46d5-9b70-41ef15e4ab7b": {
+      "ProjectGuid": "6ae4e03c-d99c-46d5-9b70-41ef15e4ab7b",
+      "DisplayName": "Wallet",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

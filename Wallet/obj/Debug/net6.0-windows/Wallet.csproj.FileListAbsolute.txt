@@ -1,0 +1,260 @@
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.exe
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.deps.json
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.runtimeconfig.json
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\ref\Wallet.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.pdb
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.AssemblyReference.cache
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\App.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.cache
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.lref
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.g.resources
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfoInputs.cache
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfo.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CoreCompileInputs.cache
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CopyComplete
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.dll
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\ref\Wallet.dll
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.pdb
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.genruntimeconfig.cache
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.baml
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.baml
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.baml
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Castle.Core.dll
+Z:\yifis\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.g.cs
+Z:\yifis\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.baml
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.exe
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.deps.json
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.runtimeconfig.json
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.pdb
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.cache
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.lref
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.baml
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.baml
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.baml
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.baml
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.g.resources
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CopyComplete
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\refint\Wallet.dll
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.pdb
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\ref\Wallet.dll
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.AssemblyReference.cache
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\App.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.cache
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.lref
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.dll
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\ref\Wallet.dll
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.pdb
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.exe
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.deps.json
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.runtimeconfig.json
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\ref\Wallet.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.pdb
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Castle.Core.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\yifis\Новая папка\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.baml
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.baml
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.baml
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.baml
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.g.resources
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfoInputs.cache
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfo.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CoreCompileInputs.cache
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CopyComplete
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.genruntimeconfig.cache
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\PayWindow.g.cs
+Z:\yifis\Новая папка\Wallet\Wallet\obj\Debug\net6.0-windows\View\PayWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.exe
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.deps.json
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.runtimeconfig.json
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Wallet.pdb
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\PayWindow.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.cache
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet_MarkupCompile.lref
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\AutorizationWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\ExchangeWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\HistoryWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\HomePageWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\PayWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\View\RegistrationWindow.baml
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.g.resources
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.AssemblyInfo.cs
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.csproj.CopyComplete
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\refint\Wallet.dll
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.pdb
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\Wallet.genruntimeconfig.cache
+C:\Users\Иван\Desktop\Wallet\Wallet\obj\Debug\net6.0-windows\ref\Wallet.dll

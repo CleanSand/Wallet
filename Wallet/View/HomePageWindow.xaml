@@ -1,0 +1,35 @@
+﻿<Window x:Class="Wallet.View.HomePageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wallet.View" xmlns:viewmodels="clr-namespace:Wallet.ViewModels"
+        mc:Ignorable="d"
+        Title="HomePageWindow" Height="450" Width="800" Name="ThisWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <TextBlock Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Grid.Row="0" Grid.Column="1" Text="Номер Кошелька:"/>
+            <TextBlock Margin="0 0 10 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Grid.Row="0" Grid.Column="1" Text="{Binding AuthorizationVM.AuthorizedUser.WalletNumber}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0" >
+            <Button Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="Кошелёк" IsEnabled="False"></Button>
+            <Button Command="{Binding Home.OpenWindow1}" CommandParameter="{Binding ElementName=ThisWindow}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="Обмен"></Button>
+            <Button Command="{Binding Home.OpenWindow2}" CommandParameter="{Binding ElementName=ThisWindow}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="История"></Button>
+            <Button Command="{Binding Home.OpenWindow3}" CommandParameter="{Binding ElementName=ThisWindow}" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" Height="25" Width="80" Margin="10" Content="Пополнить"></Button>
+        </StackPanel>
+        <DataGrid HeadersVisibility="Column" ItemsSource="{Binding Home.Lists}" AutoGenerateColumns="False" Grid.Column="1" Grid.Row="1" ColumnWidth="*" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Валюта" IsReadOnly="True" Binding="{Binding IdCoinsNavigation.IdCurrencyNavigation.Name}"/>
+                <DataGridTextColumn Header="Количество" IsReadOnly="True" Binding="{Binding IdCoinsNavigation.NumberOfCoins}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
